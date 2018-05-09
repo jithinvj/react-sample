@@ -1,0 +1,10 @@
+node_modules
+docs
+build
+dist
+npm-debug.log
+.idea
+test-report.*
+*.un~
+._*
+.DS_Store
